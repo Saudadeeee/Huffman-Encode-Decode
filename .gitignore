@@ -1,0 +1,21 @@
+# Ignore the executable files
+*.exe
+*.out
+*.o
+
+# Ignore the compiled object files
+*.obj
+*.gch
+
+# Ignore the binary files
+*.bin
+*.huff
+
+# Ignore the generated files
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Ignore the build directory if you have one
+/build/
